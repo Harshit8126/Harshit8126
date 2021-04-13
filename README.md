@@ -1,4 +1,4 @@
-
+![BannerGIF](https://github.com/Harshit8126/Harshit8126/blob/main/readme%20gif/https___www.linkedin.com_in_harshit-verma-83384a18a_.gif)
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
