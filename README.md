@@ -2,10 +2,6 @@
 <h1 align="center">Hi there, I'm Harshit👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tush-tr&hide=issues&show_icons=true&theme=onedark)
-
-
-
 - 🔭 I’m currently working on **Fast-food Website**
 
 - 🌱 I’m currently learning **React, Industrial IOT**
