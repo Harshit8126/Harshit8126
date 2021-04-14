@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm Harshit👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit8126&label=Profile%20Views&color=0e75b6&style=flat" alt="harshit8126" /> </p>
+![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tush-tr&hide=issues&show_icons=true&theme=onedark)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit8126" alt="harshit8126" /></a> </p>
+
 
 - 🔭 I’m currently working on **Fast-food Website**
 
