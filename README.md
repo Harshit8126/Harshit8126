@@ -25,11 +25,11 @@
  <img src="https://img.shields.io/badge/MongoDB-e11e21?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B"> <img src="https://img.shields.io/badge/MySQL-e11e21?style=for-the-badge&logo=MySQL&logoColor=white"> <img  src="https://img.shields.io/badge/Oracle-563D7C?style=for-the-badge&logo=Oracle&logoColor=white"> 
  
  ### Languages
- <img  src="https://img.shields.io/badge/JAVA-563D7C?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=Python&logoColor=white"> <img  src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=61DAFB"> 
+ <img  src="https://img.shields.io/badge/JAVA-563D7C?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=Python&logoColor=white"> <img  src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=61DAFB"> 
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
-<a href="https://twitter.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_harshitver31" height="30" width="40" /></a>
+<a href="https://twitter.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_harshitver31" height="30" width="40" color="white"/></a>
 <a href="https://linkedin.com/in/harshit-verma-83384a18a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-verma-83384a18a" height="30" width="40" /></a>
 <a href="https://fb.com/harshit.verma.779857" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshit.verma.779857" height="30" width="40" /></a>
 <a href="https://instagram.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_harshitver31" height="30" width="40" /></a>
