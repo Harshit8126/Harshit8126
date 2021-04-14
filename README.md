@@ -39,6 +39,6 @@
 
 # Languages and Tools:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit8126&show_icons=true&locale=en&layout=compact" alt="harshit8126" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit8126&show_icons=true&locale=en&layout=compact" alt="harshit8126" /></p> <a href = "https://www.jetbrains.com/idea/" target="_blank"> <img src="https://api.iconify.design/logos:intellij-idea.svg" alt = "intellij" width="40" height = "40"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit8126&show_icons=true&locale=en" alt="harshit8126" /></p>
