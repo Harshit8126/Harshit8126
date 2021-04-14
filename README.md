@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vermaharshit0685@gmail.com**
 
-- 📄 Here is link to my experiences [https://drive.google.com/file/d/1xSOCNSCokmZf3fsvSM7HwZS_iML0fFc6/view?usp=sharing](https://drive.google.com/file/d/1xSOCNSCokmZf3fsvSM7HwZS_iML0fFc6/view?usp=sharing)
+- 📄 Here is link to my resume [https://drive.google.com/file/d/1xSOCNSCokmZf3fsvSM7HwZS_iML0fFc6/view?usp=sharing](https://drive.google.com/file/d/1xSOCNSCokmZf3fsvSM7HwZS_iML0fFc6/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am enthusiastic Learner😄😄**
 
