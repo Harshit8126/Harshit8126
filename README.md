@@ -38,7 +38,7 @@
 <a href="https://fb.com/harshit.verma.779857" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshit.verma.779857" height="30" width="40" /></a>
 <a href="https://instagram.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_harshitver31" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_181500260" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="_181500260" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="_harshitver31" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="_harshitver31" height="30" width="40" hex:"F89F1B" /></a>
 </p>
 
 # Languages and Tools:
