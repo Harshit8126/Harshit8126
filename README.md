@@ -34,7 +34,7 @@
 # Connect with me:
 <p align="left">
 <a href="https://twitter.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_harshitver31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit-verma-83384a18a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-verma-83384a18a" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-verma-83384a18a" target="blank"><img align="center" <i class = "fab fa-facebook-square"></i>  //src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshit-verma-83384a18a" height="30" width="40" /></a>
 <a href="https://fb.com/harshit.verma.779857" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshit.verma.779857" height="30" width="40" /></a>
 <a href="https://instagram.com/_harshitver31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_harshitver31" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_181500260" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="_181500260" height="30" width="40" /></a>
