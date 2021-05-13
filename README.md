@@ -1,6 +1,6 @@
 ![BannerGIF](https://github.com/Harshit8126/Harshit8126/blob/main/readme%20gif/https___www.linkedin.com_in_harshit-verma-83384a18a_.gif)
 <h1 align="center">Hi there, I'm Harshit👋</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Front-End Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit8126&label=Profile%20views&color=0e75b6&style=flat" alt="harshit8126" /> </p>
 
