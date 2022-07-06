@@ -9,15 +9,15 @@
 
 - 🔭 I’m currently working on **Fast-food Website**
 
-- 🌱 I’m currently learning **React, Industrial IOT**
+- 🌱 I’m currently learning **Microsoft Azure Cloud**
 
-- 👯 I’m looking to collaborate on **problem solving**
+- 👯 I’m looking to collaborate on **Project Deployment in Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshit8126](https://github.com/Harshit8126)
 
 - 📫 How to reach me **vermaharshit0685@gmail.com**
 
-- 📄 Here is link to my resume [https://drive.google.com/file/d/1xSOCNSCokmZf3fsvSM7HwZS_iML0fFc6/view?usp=sharing](https://drive.google.com/file/d/1xSOCNSCokmZf3fsvSM7HwZS_iML0fFc6/view?usp=sharing)
+- 📄 Here is link to my resume [https://drive.google.com/drive/u/0/folders/1VvgggvLPOisJowhOlH1l68LVsQLswpnZ](https://drive.google.com/drive/u/0/folders/1VvgggvLPOisJowhOlH1l68LVsQLswpnZ)
 
 - ⚡ Fun fact **I think I am enthusiastic Learner😄😄**
 
@@ -27,7 +27,10 @@
 
 ### Back End
  <img src="https://img.shields.io/badge/MongoDB-e11e21?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/PHP-686ca3?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-F5820B?style=for-the-badge&logo=firebase&logoColor=FFCB2B"> <img src="https://img.shields.io/badge/MySQL-e11e21?style=for-the-badge&logo=MySQL&logoColor=white"> <img  src="https://img.shields.io/badge/Oracle-563D7C?style=for-the-badge&logo=Oracle&logoColor=white"> 
- 
+
+### Cloud Technology
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fmicrosoft_azure_logo_icon_168977.png&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fmicrosoft-azure-logo%2F168977&tbnid=7xaQm-11XzfMzM&vet=12ahUKEwj_4YHlzOP4AhWQk9gFHdOhCFQQMygEegUIARDNAQ..i&docid=__yD_lBYt1eaDM&w=512&h=256&q=microsoft%20azure%20logo&client=firefox-b-d&ved=2ahUKEwj_4YHlzOP4AhWQk9gFHdOhCFQQMygEegUIARDNAQ">
+
  ### Languages
  <img  src="https://img.shields.io/badge/JAVA-563D7C?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=Python&logoColor=white"> <img  src="https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=61DAFB"> 
 
